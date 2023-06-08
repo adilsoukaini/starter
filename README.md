@@ -1,9 +1,6 @@
 # Redux Toolkit
+
 ![image](https://github.com/adilsoukaini/starter/assets/47067476/342c427c-1e07-4f20-b023-3353b7412e6e)
-
-#### React Course
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
 
 #### Docs
